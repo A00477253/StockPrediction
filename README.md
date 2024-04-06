@@ -11,7 +11,7 @@ pip install yfinance
 
 Once you install streamlit you need to set the path or you can manually set the path in the terminal that it runs 
 The command to execute the application is 
-streamlit run StockPrediction.py
+**streamlit run StockPrediction.py**
 
 ## Dependencies
 
